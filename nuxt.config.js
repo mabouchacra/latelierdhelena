@@ -44,6 +44,7 @@ export default {
   modules: [
     // Doc: https://bootstrap-vue.js.org
     'bootstrap-vue/nuxt',
+    '@nuxt/http',
   ],
   bootstrapVue: {
     icons: true // Install the IconsPlugin (in addition to BootStrapVue plugin

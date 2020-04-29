@@ -3,26 +3,23 @@
     <navbar/>  
     
     <div class="container-fluid">
-      <b-row >
-        <b-col class="col-md-12 col-12">
-          <!--<entete />-->
-        </b-col>
-      </b-row>
       <b-row>
         <nuxt/>
       </b-row>
     </div>
+
+    <bas/>
   </div>
 </template>
 
 <script>
 import Navbar from '~/components/Navbar'
-import Entete from '~/components/Entete'
+import Bas from '~/components/Bas'
 
 export default {
   components: {
     Navbar,
-    Entete
+    Bas
   }
   
 }

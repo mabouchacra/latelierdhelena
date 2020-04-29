@@ -1,29 +1,30 @@
 <template>
     <div class="container-fluid">
+        <entete/>
+
+        <b-container>
+        
         <b-row>
             <b-col>
-                <entete/>
-            </b-col>
-        </b-row>
-        <b-row class="mt-5">
-            <b-col class="offset-md-1 col-sm-12 col-md-8 col-12">
                 <b-row>
                     <b-col>
-                    <h2 class="title font-weight-bold">Commandez les patisseries de vos envies !</h2>
+                        <h3>Commandez les patisseries de vos envies !</h3>
                     </b-col>
                 </b-row>
-                <b-row class="pb-3">
+                
+                <b-row>
                     <b-col>
                     <h3>Pour tous vos événements, petits et grands, passez commande à l'Atelier d'Héléna !</h3>
                     </b-col>
                 </b-row>
+                
                 <b-row>
                     <b-col class="text-justify">
                     <p >Vous trouverez ci-dessous les incontournables : tartes, number cakes, entremets, mignardises, petites envies et les spécialités pour la saison en cours. Je vous propose des pâtisseries faites maison avec amour, des ingrédients soigneusement sélectionnés, de saison et locaux de préférence.</p>
 
                     <p>Passez votre commande au plus tôt, si possible 5 jours à l’avance. Passé ce délai, n’hésitez pas à me contacter et nous verrons ensemble ce qu’il est possible de faire. </p>
 
-                    <p>Vous pouvez venir retirer vos pâtisseries à <ripaillettefb/> ou vous faire livrer*!</p>
+                    <p>Vous pouvez venir retirer vos pâtisseries à <ripaillettefb/> ou vous faire <a href="#tarif">livrer*</a> !</p>
 
                     <p>Pour vos commandes et pour plus d’informations, il vous suffit d’envoyer un mail à <a href="mail:contact@latelierdhelena.fr">contact@latelierdhelena.fr</a> ou de mon contacter par téléphone au <a href="tel:+33682528727">06 82 52 87 27</a> en précisant la date de l'évènement (midi ou soir) et le nombre de convives.</p>
                     </b-col>
@@ -149,10 +150,8 @@ La décoration peut être faite avec des fruits frais, des macarons, des petites
                             </div>
                     </b-col>
                 </b-row>
-            </b-col>
-        </b-row>
-            </b-col>
-            <b-col class="col-sm-12 col-md-3 col-12">
+            <b-row>
+            <b-col id="tarif">
                 <b-card title="* Grille tarifaire de livraison" sub-title="selon disponibilité">
                     <b-card-text>
                         <template>
@@ -163,8 +162,13 @@ La décoration peut être faite avec des fruits frais, des macarons, des petites
                     </b-card-text>
                 </b-card>
             </b-col>
+            </b-row>
+
+            </b-col>
         </b-row>
-        
+            </b-col>
+        </b-row>
+        </b-container>
     </div>
 </template>
 

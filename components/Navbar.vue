@@ -43,7 +43,7 @@ export default Vue.extend({
 .nav-link a{
     color: black;
     font-size: 16px;
-    font-weight: 900;
+    font-weight: 600;
 }
 
 .nav-link a.header-active {

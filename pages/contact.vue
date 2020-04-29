@@ -36,15 +36,6 @@ J’ai toujours aimé cuisiner et faire des gâteaux, mais il a fallu attendre m
               <p class="text-justify"><adresse-retrait/><br/></p>
             </b-col>
           </b-row>
-          <b-row>
-            <div>
-              <b-embed
-                type="embed"
-                aspect="16by9"
-                src="https://www.google.com/maps/place/La+Ripaillette/@44.7718175,-0.7032165,17z/data=!3m1!4b1!4m5!3m4!1s0xd54dc767771490d:0xf69ce65339d03805!8m2!3d44.7718137!4d-0.7010278"
-              ></b-embed>
-            </div>
-          </b-row>
         </b-col>
       </b-row>
       </b-container>

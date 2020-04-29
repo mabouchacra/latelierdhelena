@@ -5,11 +5,8 @@
       <b-container>
       <b-row>
         <b-col>
-          <b-row class="pb-3">
-            <b-col><h1 class="text-center font-weight-bold">Bienvenue à l'Atelier d'Héléna !</h1></b-col>
-          </b-row>
           <b-row>
-            <b-col><h3>Ce que je vous propose</h3></b-col>
+            <b-col><h3>Bienvenue à l'Atelier d'Héléna !</h3></b-col>
           </b-row>
           <b-row>
             <b-col>
