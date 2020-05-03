@@ -5,7 +5,7 @@
       <b-container>
       <b-row>
         <b-col>
-          <b-row>
+          <b-row class="pb-3">
             <b-col><h3>Le coin des professionnels</h3></b-col>
           </b-row>
           <b-row>
@@ -21,6 +21,11 @@
                 Par téléphone <telephone/><br/>
                 Ou par e-mail <email/><br/>
               </p>
+            </b-col>
+          </b-row>
+          <b-row>
+            <b-col>
+              <b-img fluid src="~static/img/pros.jpg"></b-img>
             </b-col>
           </b-row>
         </b-col>

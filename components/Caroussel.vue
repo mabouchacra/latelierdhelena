@@ -16,7 +16,7 @@
 
     <b-row class="pb-3">
       <b-col> 
-        <b-img fluid src="https://scontent-cdt1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c65.0.950.950a/s640x640/94749819_228298648402649_3395354828658220174_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=h4VS8GdkSMUAX_9dVCu&oh=52ea21f283dab2c5a4cb7aea0efc5c56&oe=5ED1E7F3"></b-img>
+        <b-img fluid src="https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/e35/c220.0.639.639a/94723116_133576834948424_815455938211021980_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=alVchJfM4xYAX8hnksW&oh=3125327b6e52ffa35bef8e8a3641124c&oe=5ED4FEC5"></b-img>
       </b-col>
       
       <b-col> 
@@ -24,13 +24,14 @@
       </b-col>
       
       <b-col> 
-        <b-img fluid src="https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/e35/c220.0.639.639a/94723116_133576834948424_815455938211021980_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=alVchJfM4xYAX8hnksW&oh=3125327b6e52ffa35bef8e8a3641124c&oe=5ED4FEC5"></b-img>
+        <b-img fluid src="https://scontent-cdt1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c65.0.950.950a/s640x640/94749819_228298648402649_3395354828658220174_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=h4VS8GdkSMUAX_9dVCu&oh=52ea21f283dab2c5a4cb7aea0efc5c56&oe=5ED1E7F3"></b-img>
       </b-col>
     </b-row>
 
     <b-row class="pb-3">
       <b-col> 
-        <b-img fluid src="https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/e35/c243.0.594.594a/95029706_273866843612109_3903608684504309857_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=o33LMTqog8AAX-ooedn&oh=b4a5d722c5c289ef07ab2012ac530494&oe=5ED431D3"></b-img>
+        <b-img fluid src="https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.63.900.900a/s640x640/95260779_863084554103552_2643936613351899857_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=kSQW606t-SAAX__eQDc&oh=f55824987714924288efac42519c04d8&oe=5ED6FFA3"></b-img>
+        <!-- <b-img fluid src="https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/e35/c243.0.594.594a/95029706_273866843612109_3903608684504309857_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=o33LMTqog8AAX-ooedn&oh=b4a5d722c5c289ef07ab2012ac530494&oe=5ED431D3"></b-img> -->
       </b-col>
       
       <b-col> 
@@ -44,7 +45,7 @@
 
     <b-row class="pb-3">
       <b-col> 
-        <b-img fluid src="https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/95330052_3062065987214632_44878417037219293_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=TbNn3wEcg-8AX97Osgw&oh=9d899ae05f0fa2d1a5add07f4bea32a9&oe=5ED29E64"></b-img>
+        <b-img fluid src="https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/94845435_251786182545045_4212925178911368253_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=n6kewn5sSWIAX9g5kUp&oh=fa7536f78121cc94c4c5e74e8afb142a&oe=5ED8C8C3"></b-img>
       </b-col>
       
       <b-col> 
@@ -52,7 +53,8 @@
       </b-col>
       
       <b-col> 
-        <b-img fluid src="https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/e35/c236.0.608.608a/94708811_241585563714286_4184395814361506019_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=tUeBTw70TPUAX-kFRHv&oh=81f467caba24cc651b9ff0fbf40addcd&oe=5ED51263"></b-img>
+        <b-img fluid src="https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/95330052_3062065987214632_44878417037219293_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=TbNn3wEcg-8AX97Osgw&oh=9d899ae05f0fa2d1a5add07f4bea32a9&oe=5ED29E64"></b-img>
+        <!-- <b-img fluid src="https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/e35/c236.0.608.608a/94708811_241585563714286_4184395814361506019_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=tUeBTw70TPUAX-kFRHv&oh=81f467caba24cc651b9ff0fbf40addcd&oe=5ED51263"></b-img> -->
       </b-col>
     </b-row>
   </b-container>

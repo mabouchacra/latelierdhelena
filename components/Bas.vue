@@ -14,7 +14,7 @@
             <b-col class=" text-right">
                 <b-nav vertical>
                     <span class="font-weight-bolder">MENTIONS LÉGALES</span>
-                    <b-nav-text class="pb-0">N° SIRET : En cours d'attribution</b-nav-text>
+                    <b-nav-text class="pb-0">N° SIRET : 882&nbsp;878&nbsp;952&nbsp;00010</b-nav-text>
                     <b-nav-text class="">Crédit : Logo <a href="https://fr.freepik.com/photos-vecteurs-libre/fond">Starline</a></b-nav-text>
                 </b-nav>
             </b-col>

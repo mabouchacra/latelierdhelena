@@ -6,7 +6,7 @@
         
         <b-row>
             <b-col>
-                <b-row>
+                <b-row class="pb-3">
                     <b-col>
                         <h3>Commandez les patisseries de vos envies !</h3>
                     </b-col>
@@ -20,46 +20,26 @@
                 
                 <b-row>
                     <b-col class="text-justify">
-                    <p >Vous trouverez ci-dessous les incontournables : tartes, number cakes, entremets, mignardises, petites envies et les spécialités pour la saison en cours. Je vous propose des pâtisseries faites maison avec amour, des ingrédients soigneusement sélectionnés, de saison et locaux de préférence.</p>
+                    <p >Vous trouverez ci-dessous les incontournables : tartes, number cakes, entremets, mignardises, petites envies et les spécialités pour la saison en cours (photos d’illustration, la décoration peut varier).<br/>
+                     Je vous propose des pâtisseries faites maison avec amour, des ingrédients soigneusement sélectionnés, de saison et locaux de préférence.</p>
 
                     <p>Passez votre commande au plus tôt, si possible 5 jours à l’avance. Passé ce délai, n’hésitez pas à me contacter et nous verrons ensemble ce qu’il est possible de faire. </p>
 
                     <p>Vous pouvez venir retirer vos pâtisseries à <ripaillettefb/> ou vous faire <a href="#tarif">livrer*</a> !</p>
 
-                    <p>Pour vos commandes et pour plus d’informations, il vous suffit d’envoyer un mail à <a href="mail:contact@latelierdhelena.fr">contact@latelierdhelena.fr</a> ou de mon contacter par téléphone au <a href="tel:+33682528727">06 82 52 87 27</a> en précisant la date de l'évènement (midi ou soir) et le nombre de convives.</p>
+                    <p>Pour vos commandes et pour plus d’informations, il vous suffit d’envoyer un mail à <a href="mail:contact@latelierdhelena.fr">contact@latelierdhelena.fr</a> ou de mon contacter par téléphone au <a href="tel:+33682528727">06 82 52 87 27</a> en précisant la date de l'évènement (midi ou soir), le nombre de convives et les éventuelles allergies.</p>
                     </b-col>
                 </b-row>
-                <b-row>
-            <b-col>
-                <b-row><b-col class="text-justify">
-                            <b-card
-                                title="​Number Cakes"
-                                img-src="https://scontent-cdt1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c154.0.771.771a/s640x640/95095856_261252758362609_765019089063857909_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=_Ps_0nlT0IoAX9lDpXO&oh=c7d177b9bb4e18007e8cc8813703e80f&oe=5ED244B8"
-                                img-alt="Image"
-                                img-left
-                                img-fluid
-                                tag="article"
-                                class="mb-3"
-                            >
-                                <b-card-text>
-                                ​Le gâteau parfait pour fêter un anniversaire ! <br/>
-                                Composé de deux couches de biscuit sablé et une ou deux crème(s) ou ganache(s) montée(s).<br/>
-                                Au choix :
-<ul>
-    <li>Vanille</li>
-    <li>Chocolat, </li>
-    <li>Ganache fruité, </li>
-    <li>Chocolat praliné, </li>
-    <li>Citron meringuée.</li>
-</ul>
-La décoration peut être faite avec des fruits frais, des macarons, des petites meringues et autres douceurs (petits sablés, bonbons chocolat…)..
-                                </b-card-text>
-                                <b-card-text class="font-weight-bold">1 gâteau correspond à un 10 personnes.<br/>
-40€ pour un gâteau, 75€ pour 2 (+ 5€, si garnitures différentes).</b-card-text>
-                            </b-card></b-col>
+                <b-row class="pb-3">
+                    <b-col>
+                        <carte/>
+                    </b-col>
                 </b-row>
+
                 <b-row>
-                    <b-col class="col-md-3">
+                <b-col>
+                <b-row>
+                    <b-col class="pb-3" lg="4" sm="12">
                         <div>
                             <b-card
                                 title="Tarte citron meringué"
@@ -77,7 +57,7 @@ La décoration peut être faite avec des fruits frais, des macarons, des petites
                             </b-card>
                             </div>
                     </b-col>
-                    <b-col class="col-md-3">
+                    <b-col class="pb-3" lg="4" sm="12">
                         <div>
                             <b-card
                                 title="​Tarte aux fruits de saison"
@@ -95,7 +75,7 @@ La décoration peut être faite avec des fruits frais, des macarons, des petites
                             </b-card>
                             </div>
                     </b-col>
-                    <b-col class="col-md-3">
+                    <b-col class="pb-3" lg="4" sm="12">
                         <div>
                             <b-card
                                 title="Tarte fine aux pommes"
@@ -115,7 +95,7 @@ La décoration peut être faite avec des fruits frais, des macarons, des petites
                             </b-card>
                             </div>
                     </b-col>
-                    <b-col class="col-md-3">
+                    <b-col class="pb-3" lg="4" sm="12">
                         <div>
                             <b-card
                                 title="​Entremets tout Citron"
@@ -133,7 +113,7 @@ La décoration peut être faite avec des fruits frais, des macarons, des petites
                             </b-card>
                             </div>
                     </b-col>
-                    <b-col class="col-md-3">
+                    <b-col class="pb-3" lg="4" sm="12">
                         <div>
                             <b-card
                                 title="​Entremets Chocolat Noisettes"
@@ -152,7 +132,7 @@ La décoration peut être faite avec des fruits frais, des macarons, des petites
                 </b-row>
             <b-row>
             <b-col id="tarif">
-                <b-card title="* Grille tarifaire de livraison" sub-title="selon disponibilité">
+                <b-card title="* Grille tarifaire de livraison" sub-title="Selon disponibilité">
                     <b-card-text>
                         <template>
                             <div>
@@ -176,11 +156,13 @@ La décoration peut être faite avec des fruits frais, des macarons, des petites
 
 import Ripaillettefb from "~/components/Ripaillettefb"
 import Entete from '~/components/Entete'
+import Carte from '~/components/Carte'
 
 export default {
     components: {
             Entete,
-            Ripaillettefb
+            Ripaillettefb,
+            Carte
     },
     data() {
       return {
