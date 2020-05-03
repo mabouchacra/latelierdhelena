@@ -5,7 +5,7 @@
       <b-container>
       <b-row>
         <b-col>
-          <b-row>
+          <b-row class="pb-3">
             <b-col><h3>Bienvenue à l'Atelier d'Héléna !</h3></b-col>
           </b-row>
           <b-row>
