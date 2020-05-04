@@ -4,21 +4,28 @@
         <b-row>
             <b-container>
                 <b-row>
-            <b-col class=" text-left">
-                <b-nav vertical>
-                    <span class="font-weight-bolder">ME CONTACTER</span>
-                    <b-nav-text class="pb-0"><telephone/></b-nav-text>
-                    <b-nav-text class=""><email/></a></b-nav-text>
-                </b-nav>
-            </b-col>
-            <b-col class=" text-right">
-                <b-nav vertical>
-                    <span class="font-weight-bolder">MENTIONS LÉGALES</span>
-                    <b-nav-text class="pb-0">N° SIRET : 882&nbsp;878&nbsp;952&nbsp;00010</b-nav-text>
-                    <b-nav-text class="">Crédit : Logo <a href="https://fr.freepik.com/photos-vecteurs-libre/fond">Starline</a></b-nav-text>
-                </b-nav>
-            </b-col>
-            </b-row>
+                    <b-col sm="12" md="4" class="text-left">
+                        <b-nav vertical>
+                            <span class="font-weight-bolder">ME CONTACTER</span>
+                            <b-nav-text class="pb-0"><telephone/></b-nav-text>
+                            <b-nav-text class=""><email/></b-nav-text>
+                        </b-nav>
+                    </b-col>
+                    <b-col sm="12" md="4" class="text-center">
+                        <b-nav vertical>
+                            <span class="font-weight-bolder">RÉSEAUX SOCIAUX</span>
+                            <b-nav-text><a href="https://www.facebook.com/atelierdhelena" target="_blank">Facebook</a></b-nav-text>
+                            <b-nav-text><a href="https://www.instagram.com/latelierdhelena/" target="_blank">Instagram</a></b-nav-text>
+                        </b-nav>
+                    </b-col>
+                    <b-col sm="12" md="4" class="text-right">
+                        <b-nav vertical>
+                            <span class="font-weight-bolder">MENTIONS LÉGALES</span>
+                            <b-nav-text class="pb-0">N° SIRET : 882&nbsp;878&nbsp;952&nbsp;00010</b-nav-text>
+                            <b-nav-text class="">Crédit : Logo <a href="https://fr.freepik.com/photos-vecteurs-libre/fond">Starline</a></b-nav-text>
+                        </b-nav>
+                    </b-col>
+                </b-row>
             </b-container>
         </b-row>
     </b-container>
