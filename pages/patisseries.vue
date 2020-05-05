@@ -25,7 +25,7 @@
 
                     <p>Passez votre commande au plus tôt, si possible 5 jours à l’avance. Passé ce délai, n’hésitez pas à me contacter et nous verrons ensemble ce qu’il est possible de faire. </p>
 
-                    <p>Vous pouvez venir retirer vos pâtisseries à <ripaillettefb/> ou vous faire <a href="#tarif">livrer*</a> !</p>
+                    <p>Vous pouvez venir retirer vos pâtisseries à <ripaillettefb/> ou vous faire <nuxt-link to="/maintenant#tarif">livrer*</nuxt-link> !</p>
 
                     <p>Pour vos commandes et pour plus d’informations, il vous suffit d’envoyer un mail à <a href="mail:contact@latelierdhelena.fr">contact@latelierdhelena.fr</a> ou de mon contacter par téléphone au <a href="tel:+33682528727">06 82 52 87 27</a> en précisant la date de l'évènement (midi ou soir), le nombre de convives et les éventuelles allergies.</p>
                     </b-col>
