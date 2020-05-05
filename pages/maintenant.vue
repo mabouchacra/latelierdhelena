@@ -127,11 +127,11 @@
  
               <b-row>
                 <b-col sm="12" md="6">
-                  <h5><span class="font-weight-bolder">Petit pot de caramel mou (100ml)</span></h5>
+                  <h5><span class="font-weight-bolder">Petit pot de caramel mou (200ml)</span></h5>
                 </b-col>
 
                 <b-col sm="12" md="6" class="text-center">
-                  <h5 class="font-weight-bolder">2.5€</h5>
+                  <h5 class="font-weight-bolder">5€</h5>
                 </b-col>
               </b-row>
 
