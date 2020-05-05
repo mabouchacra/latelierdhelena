@@ -16,7 +16,11 @@
             <b-nav-item class="pr-4"><nuxt-link to="/contact" exact-active-class="header-active">CONTACT</nuxt-link></b-nav-item>
             <b-nav-text><telephone/></b-nav-text>
             <b-nav-text>&nbsp;&nbsp;-&nbsp;&nbsp;</b-nav-text>
-            <b-nav-text><email/></b-nav-text>
+            <b-nav-text class="pr-5"><email/></b-nav-text>
+            <b-nav-text class="pl-2">
+                <span class="pr-3"><a href="https://www.facebook.com/atelierdhelena" target="_blank"><b-img src="~static/img/facebook.bak.png" width="25px"></b-img></a></span>
+                <span><a href="https://www.instagram.com/latelierdhelena/" target="_blank"><b-img src="~static/img/instagram.png" width="25px"></b-img></a></span>
+            </b-nav-text>
         </b-navbar-nav>
         <b-navbar-nav>
         </b-navbar-nav>
