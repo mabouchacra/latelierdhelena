@@ -4,7 +4,7 @@
             <b-col>
                 <b-row class="pt-3 border rounded p-2">
                     <b-col align-self="center" lg="6" sm="12">
-                        <b-img fluid center src="~static/img/number-cake.webp"></b-img>
+                        <b-img fluid center src="~static/img/number-cake.webp" alt="Number cake"></b-img>
                     </b-col>
 
                     <b-col lg="6" sm="12">
@@ -131,7 +131,7 @@
             <b-col align-self="center" lg="6" sm="12">
                 <b-row>
                     <b-col align-self="center">
-                        <b-img fluid src="~static/img/plateaux-mignardises.webp"></b-img>
+                        <b-img fluid src="~static/img/plateaux-mignardises.webp" alt="Plateaux de mignardises"></b-img>
                     </b-col>
                 </b-row>
             </b-col>
@@ -163,18 +163,18 @@
             <b-col align-self="center" lg="6" sm="12">
                 <b-row class="">
                     <b-col align-self="center">
-                        <b-img fluid src="~static/img/cookies.webp"></b-img>
+                        <b-img fluid src="~static/img/cookies.webp" alt="Cookies"></b-img>
                     </b-col>
                     <b-col align-self="center">
-                        <b-img fluid src="~static/img/mini-crepes.webp"></b-img>
+                        <b-img fluid src="~static/img/mini-crepes.webp" alt="Mini crêpes"></b-img>
                     </b-col>
                 </b-row>
                 <b-row>
                     <b-col align-self="center">
-                        <b-img fluid src="~static/img/mini-cupcakes-framboise.webp"></b-img>
+                        <b-img fluid src="~static/img/mini-cupcakes-framboise.webp" alt="Mini cupcakes"></b-img>
                     </b-col>
                     <b-col align-self="center">
-                        <b-img fluid src="~static/img/brownie.webp"></b-img>
+                        <b-img fluid src="~static/img/brownie.webp" alt="Mini brownies"></b-img>
                     </b-col>
                 </b-row>
             </b-col>

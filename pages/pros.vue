@@ -25,7 +25,7 @@
           </b-row>
           <b-row>
             <b-col>
-              <b-img fluid src="~static/img/pros.jpg"></b-img>
+              <b-img fluid src="~static/img/pros.jpg" alt="Plateaux de mignardises pour différents évènements (baptême, mariage, anniversaire)"></b-img>
             </b-col>
           </b-row>
         </b-col>

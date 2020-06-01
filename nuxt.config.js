@@ -14,7 +14,8 @@ export default {
       { name: 'og:url', content: "https://latelierdhelena.fr" },
       { name: 'og:title', content: "L'atelier d'Héléna - Pâtisseries fines et gourmandes" },
       { name: 'og:site_name', content: "L'atelier d'Héléna - Pâtisseries fines et gourmandes" },
-      { name: 'og:type', content: "website" }
+      { name: 'og:type', content: "website" },
+      { name: 'og:locale', content: 'fr_FR'}
     ],
     link: [
       { rel: 'stylesheet', type: 'text/css', href: 'https://fonts.googleapis.com/css?family=Lato:400,700'},
@@ -51,9 +52,15 @@ export default {
     'bootstrap-vue/nuxt',
     '@nuxt/http',
     '@nuxtjs/sitemap',
+    '@nuxtjs/robots',
   ],
   bootstrapVue: {
     icons: true // Install the IconsPlugin (in addition to BootStrapVue plugin
+  },
+  robots: {
+    UserAgent: '*',
+    Disallow: '/',
+    Sitemap: 'https://latelierdhelena.fr/sitemap.xml'
   },
   sitemap: {
     hostname: 'https://latelierdhelena.fr',

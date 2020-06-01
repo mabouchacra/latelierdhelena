@@ -17,7 +17,7 @@ J’ai toujours aimé cuisiner et faire des gâteaux, mais il a fallu attendre m
               </p>
             </b-col>
             <b-col>
-              <b-img center fluid src="~/static/img/helena.webp" alt="Héléna" rounded="circle"></b-img>
+              <b-img center fluid src="~/static/img/helena.webp" alt="Héléna Arguillot" rounded="circle"></b-img>
             </b-col>
           </b-row>
 

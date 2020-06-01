@@ -4,18 +4,18 @@
             <b-col align-self="center" lg="6" sm="12">
                 <b-row class="">
                     <b-col align-self="center">
-                        <b-img fluid src="~static/img/nuage.jpg"></b-img>
+                        <b-img fluid src="~static/img/nuage.jpg" alt="Gateau d'anniversaire"></b-img>
                     </b-col>
                     <b-col align-self="center">
-                        <b-img fluid src="~static/img/perso-choco.webp"></b-img>
+                        <b-img fluid src="~static/img/perso-choco.webp" alt="Gateau personnalisé au chocolat"></b-img>
                     </b-col>
                 </b-row>
                 <b-row>
                     <b-col align-self="center">
-                        <b-img fluid src="~static/img/perso-araignes.webp"></b-img>
+                        <b-img fluid src="~static/img/perso-araignes.webp" alt="Gateau au chocolat avec décor d'halloween"></b-img>
                     </b-col>
                     <b-col align-self="center">
-                        <b-img fluid src="~static/img/nude-cake.webp"></b-img>
+                        <b-img fluid src="~static/img/nude-cake.webp" alt="Nude cake aux fraises"></b-img>
                     </b-col>
                 </b-row>
             </b-col>
