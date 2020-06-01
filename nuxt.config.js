@@ -9,7 +9,12 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
+      { hid: 'description', name: 'description', content: "L'atelier d'Héléna - Pâtisseries fines et gourmandes, fait maison dans la région de Bordeaux" },
+      { name: 'og:description', content: "L'atelier d'Héléna - Pâtisseries fines et gourmandes, fait maison dans la région de Bordeaux" },
+      { name: 'og:url', content: "https://latelierdhelena.fr" },
+      { name: 'og:title', content: "L'atelier d'Héléna - Pâtisseries fines et gourmandes" },
+      { name: 'og:site_name', content: "L'atelier d'Héléna - Pâtisseries fines et gourmandes" },
+      { name: 'og:type', content: "website" }
     ],
     link: [
       { rel: 'stylesheet', type: 'text/css', href: 'https://fonts.googleapis.com/css?family=Lato:400,700'},
