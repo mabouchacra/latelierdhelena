@@ -59,7 +59,7 @@ export default {
   },
   robots: {
     UserAgent: '*',
-    Disallow: '/',
+    Disallow: '/admin',
     Sitemap: 'https://latelierdhelena.fr/sitemap.xml'
   },
   sitemap: {
