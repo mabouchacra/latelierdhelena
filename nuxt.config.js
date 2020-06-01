@@ -53,7 +53,11 @@ export default {
     '@nuxt/http',
     '@nuxtjs/sitemap',
     '@nuxtjs/robots',
+    '@nuxtjs/google-analytics',
   ],
+  googleAnalytics: {
+    id: 'UA-168162771-1'
+  },
   bootstrapVue: {
     icons: true // Install the IconsPlugin (in addition to BootStrapVue plugin
   },
