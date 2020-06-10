@@ -87,6 +87,8 @@ export default {
     ** You can extend webpack config here
     */
     extend (config, ctx) {
-    }
-  }
+    },
+  },
+  minifyCSS: true,
+  minifyJS: true
 }

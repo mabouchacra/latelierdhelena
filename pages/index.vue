@@ -6,14 +6,14 @@
       <b-row>
         <b-col>
           <b-row class="pb-3">
-            <h1>L'atelier d'Héléna - Patisseries fines et gourmandes</h1>
+            <h1>L'atelier d'Héléna - Pâtisseries fines et gourmandes</h1>
             <b-col><h3>Bienvenue à l'Atelier d'Héléna !</h3></b-col>
           </b-row>
-          <!-- <b-row class="pt-3 pb-3">
+          <b-row class="pt-3 pb-3">
             <b-col class="text-center" align-self="center">
-              <h4 class="pb-1 pt-1 border border-dark"><b-icon icon="exclamation-triangle"></b-icon>&nbsp;&nbsp;Réservation ouverte pour le <b-link to="/fete">menu spécial fêtes des mères</b-link> ! Ne tardez pas !</h4>
+              <h4 class="pb-1 pt-1 border border-dark"><b-icon icon="exclamation-triangle"></b-icon>&nbsp;&nbsp;Réservation ouverte pour le <b-link to="/fete">menu spécial fêtes des pères</b-link> ! Ne tardez pas !</h4>
             </b-col>
-          </b-row> -->
+          </b-row>
           <b-row>
             <b-col>
               <p class="text-justify">​Pour un anniversaire, un goûter,  un repas, un mariage, ou juste pour une petite envie de se faire plaisir, L'Atelier d’Héléna s'occupe de tout ! Commandez vos pâtisseries et passez les récupérer à <ripaillettefb/>, ou faites vous directement livrer à votre domicile ou sur votre lieu de travail par exemple.<br/>
