@@ -6,8 +6,29 @@
       <b-row>
         <b-col>
           <b-row class="pb-3">
-            <b-col><h2>La carte du moment</h2></b-col>
+            <b-col><h2>Les pâtisseries incontournables</h2></b-col>
           </b-row>
+                
+          <b-row>
+            <b-col>
+              <h3>Pour tous vos événements, petits et grands, passez commande à l'Atelier d'Héléna !</h3>
+            </b-col>
+          </b-row>
+
+          <b-row>
+            <b-col class="text-justify">
+              <p >Vous trouverez ci-dessous la cartes des pâtisseries incontournables : tartes, entremets, mignardises, petites envies et les spécialités pour la saison en cours (photos d’illustration, la décoration peut varier).
+                Je vous propose des pâtisseries faites maison avec amour, des ingrédients soigneusement sélectionnés, de saison et locaux de préférence.</p>
+
+              <p>Passez votre commande au plus tôt, au minimum 3 jours avant.<br/>
+                Passé ce délai, n’hésitez pas à me contacter et nous verrons ensemble ce qu’il est possible de faire. </p>
+
+              <p>Vous pouvez venir retirer vos pâtisseries à <ripaillettefb/> ou vous faire <nuxt-link to="#tarif">livrer*</nuxt-link> !</p>
+
+              <p>Pour vos commandes et pour plus d’informations, il vous suffit d’envoyer un mail à <email/> ou de mon contacter par téléphone au <telephone/> en précisant la date de l'évènement (midi ou soir), le nombre de convives et les éventuelles allergies.</p>
+            </b-col>
+          </b-row>
+
           <b-row class="mb-3 pt-3 border rounded p-2">
             <b-col class="text-justify">
               <b-row class="pb-2">
@@ -253,38 +274,12 @@
   
             </b-col>
           </b-row>
-
-          <b-row>
-            <b-col>
-                <p class="">A commander minimum 3 jours à l’avance par mail <email/> ou par téléphone <telephone/>.<br/>
-                Paiement par carte bancaire ou par virement possible.<br/>
-                Vous pouvez venir retirer vos pâtisseries à <ripaillettefb/> ou vous faire <a href="#tarif">livrer*</a> !</p>
-                <p><span class="font-weight-bolder">En ce moment, la livraison est gratuite à partir de 20€ de commande et jusqu’à 15 km autour du labo (situé à Cestas Gazinet) les vendredi, samedi et dimanche. Les autres jours, me contacter pour les disponibilités.</span>
-                </p>
-            </b-col>
-          </b-row>
           
-          <b-row>
-            <b-col>
-                <b-row>
-                    <b-col id="tarif">
-                        <b-card title="* Grille tarifaire de livraison" sub-title="Selon disponibilité">
-                            <b-card-text>
-                                <template>
-                                    <div>
-                                        <b-table hover :items="items"></b-table>
-                                    </div>
-                                </template>
-                            </b-card-text>
-                        </b-card>
-                    </b-col>
-                </b-row>
-            </b-col>
-          </b-row>
+          <livraison/>
 
           <b-row class="pt-3">
             <b-col>
-              <p class="text-justify">N'hésitez pas à me contacter si vous avez une question ou si vous souhaitez des informations ou un devis.<br/>
+              <p class="text-justify">N'hésitez pas à me contacter si vous avez une question, si vous souhaitez des informations ou un devis&nbsp;:<br/>
                 Par téléphone <telephone/><br/>
                 Ou par e-mail <email/><br/>
               </p>
@@ -304,24 +299,14 @@ import Entete from '~/components/Entete'
 import Telephone from "~/components/Telephone"
 import Ripaillettefb from "~/components/Ripaillettefb"
 import Email from "~/components/Email"
+import Livraison from "~/components/Livraison"
 export default Vue.extend({
   components: {
     Entete,
     Ripaillettefb,
     Email,
     Telephone,
-  },
-    data() {
-      return {
-        items: [
-          { zone: 0, distance: 'Laboratoire', prix: '0€' },
-          { zone: 1, distance: 'Jusqu’à 5km', prix: '3€' },
-          { zone: 2, distance: 'De 5 à 10km', prix: '4.5€' },
-          { zone: 3, distance: 'De 10 à 15km', prix: '6€' },
-          { zone: 4, distance: 'De 15 à 20km', prix: '8€' },
-          { zone: 5, distance: 'Plus de 20km', prix: 'Nous consulter' },
-        ]
-      }
-    }
+    Livraison
+  }
 })
 </script>

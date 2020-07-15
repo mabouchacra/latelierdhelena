@@ -15,6 +15,8 @@
 ​Mes pâtisseries, légères en sucre et gourmandes, sont artisanales et faites maison avec amour. J’utilise des produits frais, de saison, les plus locaux et naturels possible, en favorisant au maximum les circuits courts auprès des fournisseurs et minimisant les déchets. Je  propose une pâtisserie adaptée à vos événements, et personnalisable.</p>
 
               <p class="text-justify">Pas de biscuits ni de confitures industriels ou surgelés. La carte est actualisée en fonction des saisons, afin de proposer un maximum de produits frais. Toutes mes pâtisseries sont réalisées à la commande, dans mon atelier.</p>
+
+              <p class="text-justify">Rendez-vous sur les cartes des <nuxt-link to="/maintenant">pâtisseries incontournables</nuxt-link> et des <nuxt-link to="/patisseries">pâtisseries personnalisées</nuxt-link> !</p>
             </b-col>
           </b-row>
           <b-row>
