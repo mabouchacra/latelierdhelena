@@ -5,6 +5,9 @@ export default {
   ** Headers of the page
   */
   head: {
+    htmlAttrs: {
+      lang: 'fr',
+    },
     title: "L'atelier d'Héléna - Pâtisseries fines et gourmandes",
     meta: [
       { charset: 'utf-8' },
