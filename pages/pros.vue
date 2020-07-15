@@ -6,7 +6,7 @@
       <b-row>
         <b-col>
           <b-row class="pb-3">
-            <b-col><h3>Le coin des professionnels</h3></b-col>
+            <b-col><h2>Le coin des professionnels</h2></b-col>
           </b-row>
           <b-row>
             <b-col class="text-justify">

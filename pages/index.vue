@@ -7,7 +7,7 @@
         <b-col>
           <b-row class="pb-3">
             <h1>L'atelier d'Héléna - Pâtisseries fines et gourmandes</h1>
-            <b-col><h3>Bienvenue à l'Atelier d'Héléna !</h3></b-col>
+            <b-col><h2>Bienvenue à l'Atelier d'Héléna !</h2></b-col>
           </b-row>
           <b-row>
             <b-col>

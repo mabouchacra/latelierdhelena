@@ -8,13 +8,13 @@
             <b-col>
                 <b-row class="pb-3">
                     <b-col>
-                        <h3>Commandez les patisseries de vos envies !</h3>
+                        <h2>Commandez les patisseries de vos envies !</h2>
                     </b-col>
                 </b-row>
                 
                 <b-row>
                     <b-col>
-                    <h4>Pour tous vos événements, petits et grands, passez commande à l'Atelier d'Héléna !</h4>
+                    <h3>Pour tous vos événements, petits et grands, passez commande à l'Atelier d'Héléna !</h3>
                     </b-col>
                 </b-row>
                 

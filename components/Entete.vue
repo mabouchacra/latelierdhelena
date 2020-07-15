@@ -13,7 +13,6 @@
 <style scoped>
 .logo-bg {
  background-repeat: repeat-y;
- background-image: url('~static/img/logo.webp');
  width: 100%;
  height: 146px;
 }

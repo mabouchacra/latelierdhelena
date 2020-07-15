@@ -112,7 +112,7 @@
                 <div>
                     <b-card
                         title="​Entremets Chocolat Noisettes"
-                        img-src="~static/img/entremet-choco-noisette.webp"
+                        img-src="~static/img/entremet-choco-noisette.jpg"
                         img-alt="Image"
                         img-top
                         tag="article"
@@ -163,7 +163,7 @@
             <b-col align-self="center" lg="6" sm="12">
                 <b-row class="">
                     <b-col align-self="center">
-                        <b-img fluid src="~static/img/cookies.webp" alt="Cookies"></b-img>
+                        <b-img fluid src="~static/img/cookies-2.png" alt="Cookies"></b-img>
                     </b-col>
                     <b-col align-self="center">
                         <b-img fluid src="~static/img/mini-crepes.webp" alt="Mini crêpes"></b-img>
