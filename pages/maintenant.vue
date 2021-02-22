@@ -37,7 +37,7 @@
                 </b-col>
               </b-row>
 
-               <b-row class="mb-3">
+               <!-- <b-row class="mb-3">
                 <b-col align-self="center" lg="4" sm="12">
                     <b-row>
                         <b-col align-self="center">
@@ -53,7 +53,7 @@
                     </p>
                     <p class="font-italic">Existe également en version individuelle. 3.5€ la pièce, par 4 minimum</p>
                 </b-col>
-              </b-row>
+              </b-row> -->
 
               <b-row class="mb-3">
                 <b-col align-self="center" lg="4" sm="12">
@@ -65,7 +65,7 @@
                 </b-col>
 
                 <b-col align-self="center" lg="6" sm="12">
-                    <h4>Tarte aux fruits de saison - 8 pers - 24€</h4>
+                    <h4>Tarte aux fruits de saison - 8 pers - 28€</h4>
                     <p>
                         Pâte sablée, crémeux vanille et fruits de saison 
                     </p>
@@ -83,7 +83,7 @@
                 </b-col>
 
                 <b-col align-self="center" lg="6" sm="12">
-                    <h4>Tarte citron meringuée - 8 pers - 24€</h4>
+                    <h4>Tarte citron meringuée - 8 pers - 26€</h4>
                     <p>
                         Pâte sablée, crémeux citron et meringue à l'italienne 
                     </p>
@@ -103,7 +103,7 @@
                 <b-col align-self="center" lg="6" sm="12">
                     <h4>Entremets chocolat noisette - 8 pers - 28€</h4>
                     <p>
-                        Dacquoise noisette, croustillant praliné et crémeux au chocolat noir 64% 
+                        Dacquoise noisette, croustillant praliné et mousse au chocolat noir 64%
                     </p>
                 </b-col>
               </b-row>
@@ -118,14 +118,14 @@
                 </b-col>
 
                 <b-col align-self="center" lg="6" sm="12">
-                    <h4>Entremets mangue passion - 8 pers - 32€</h4>
+                    <h4>Entremets mangue passion - 8 pers - 36€</h4>
                     <p>
                         Streusel, biscuit moelleux citron, crémeux mangue passion, mousse mangue passion 
                     </p>
                 </b-col>
               </b-row>
 
-               <b-row class="mb-3">
+               <!-- <b-row class="mb-3">
                 <b-col align-self="center" lg="4" sm="12">
                     <b-row>
                         <b-col align-self="center">
@@ -140,7 +140,7 @@
                         Génoise citron, crème diplomate vanille, fraises fraîches, zeste citron vert. Finition chantilly 
                     </p>
                 </b-col>
-              </b-row>
+              </b-row> -->
 
               <b-row class="pt-3 pb-2">
                 <b-col>
