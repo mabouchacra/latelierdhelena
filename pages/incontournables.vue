@@ -65,11 +65,11 @@
                 </b-col>
 
                 <b-col align-self="center" lg="6" sm="12">
-                    <h4>Tarte aux fruits de saison - 8 pers - 28€</h4>
+                    <h4>Tarte aux fruits de saison - 8 pers minimum</h4>
                     <p>
                         Pâte sablée, crémeux vanille et fruits de saison 
                     </p>
-                    <p class="font-italic">Existe également en version individuelle. 3.5€ la pièce, par 4 minimum</p>
+                    <p class="font-italic">Existe également en version individuelle. Par 4 minimum</p>
                 </b-col>
               </b-row>
 
@@ -83,11 +83,11 @@
                 </b-col>
 
                 <b-col align-self="center" lg="6" sm="12">
-                    <h4>Tarte citron meringuée - 8 pers - 26€</h4>
+                    <h4>Tarte citron meringuée - 8 pers minimum</h4>
                     <p>
                         Pâte sablée, crémeux citron et meringue à l'italienne 
                     </p>
-                    <p class="font-italic">Existe également en version individuelle. 3.5€ la pièce, par 4 minimum</p>
+                    <p class="font-italic">Existe également en version individuelle. Par 4 minimum</p>
                 </b-col>
               </b-row>
 
@@ -101,7 +101,7 @@
                 </b-col>
 
                 <b-col align-self="center" lg="6" sm="12">
-                    <h4>Entremets chocolat noisette - 8 pers - 28€</h4>
+                    <h4>Entremets chocolat noisette - 8 pers minimum</h4>
                     <p>
                         Dacquoise noisette, croustillant praliné et mousse au chocolat noir 64%
                     </p>
@@ -118,7 +118,7 @@
                 </b-col>
 
                 <b-col align-self="center" lg="6" sm="12">
-                    <h4>Entremets mangue passion - 8 pers - 36€</h4>
+                    <h4>Entremets mangue passion - 8 pers minimum</h4>
                     <p>
                         Streusel, biscuit moelleux citron, crémeux mangue passion, mousse mangue passion 
                     </p>

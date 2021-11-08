@@ -16,7 +16,7 @@
 
               <p class="text-justify">Pas de biscuits ni de confitures industriels ou surgelés. La carte est actualisée en fonction des saisons, afin de proposer un maximum de produits frais. Toutes mes pâtisseries sont réalisées à la commande, dans mon atelier.</p>
 
-              <p class="text-justify">Rendez-vous sur les cartes des <nuxt-link to="/maintenant">pâtisseries incontournables</nuxt-link> et des <nuxt-link to="/patisseries">pâtisseries personnalisées</nuxt-link> !</p>
+              <p class="text-justify">Rendez-vous sur les cartes des <nuxt-link to="/incontournables">pâtisseries incontournables</nuxt-link> et des <nuxt-link to="/personnalisees">pâtisseries personnalisées</nuxt-link> !</p>
             </b-col>
           </b-row>
           <b-row>

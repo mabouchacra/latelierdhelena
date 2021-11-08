@@ -9,8 +9,8 @@
         <!-- Right aligned nav items -->
         <b-navbar-nav class="mx-auto" align="center">
             <b-nav-item class="pr-4"><nuxt-link to="/" exact-active-class="header-active">ACCUEIL</nuxt-link></b-nav-item>
-            <b-nav-item class="pr-4"><nuxt-link to="/maintenant" exact-active-class="header-active">LES INCONTOURNABLES</nuxt-link></b-nav-item>
-            <b-nav-item class="pr-4"><nuxt-link to="/patisseries" exact-active-class="header-active">LES PERSONNALISÉES</nuxt-link></b-nav-item>
+            <b-nav-item class="pr-4"><nuxt-link to="/incontournables" exact-active-class="header-active">LES INCONTOURNABLES</nuxt-link></b-nav-item>
+            <b-nav-item class="pr-4"><nuxt-link to="/personnalisees" exact-active-class="header-active">LES PERSONNALISÉES</nuxt-link></b-nav-item>
             <!-- <b-nav-item class="pr-4"><nuxt-link to="/recettes" exact-active-class="header-active">RECETTES</nuxt-link></b-nav-item> -->
             <b-nav-item class="pr-4"><nuxt-link to="/pros" exact-active-class="header-active">POUR LES PROS</nuxt-link></b-nav-item>
             <b-nav-item class="pr-4"><nuxt-link to="/contact" exact-active-class="header-active">CONTACT</nuxt-link></b-nav-item>

@@ -37,7 +37,7 @@
                             La décoration peut être faite avec des fruits frais, des macarons, des petites meringues et autres douceurs (petits sablés, bonbons chocolat...)
                         </p>
                         <p class="font-weight-bold">1 gâteau correspond à un 10 personnes.</p>
-                        <p class="font-weight-bold">45€ pour un gâteau, 85€ pour 2 (+ 5€, si garnitures différentes)</p>
+                        <p class="font-weight-bold">À partir de 5€/part</p>
                     </b-col>
                 </b-row>
 
