@@ -27,7 +27,7 @@
 
                     <p>Vous pouvez venir retirer vos pâtisseries à <ripaillettefb/> ou vous faire <nuxt-link to="#tarif">livrer*</nuxt-link> !</p>
 
-                    <p>Pour vos commandes et pour plus d’informations, il vous suffit d’envoyer un mail à <email/> ou de mon contacter par téléphone au <telephone/> en précisant la date de l'évènement (midi ou soir), le nombre de convives et les éventuelles allergies.</p>
+                    <p>Pour vos commandes et pour plus d’informations, il vous suffit d’envoyer un mail à <email/> ou de me contacter par téléphone au <telephone/> en précisant la date de l'évènement (midi ou soir), le nombre de convives et les éventuelles allergies.</p>
 
                     <p>Vous trouverez ci-dessous la carte des pâtisseries personnalisées (photos d’illustration, la décoration peut varier).</p>
                     </b-col>

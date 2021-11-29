@@ -9,6 +9,7 @@
         <!-- Right aligned nav items -->
         <b-navbar-nav class="mx-auto" align="center">
             <b-nav-item class="pr-4"><nuxt-link to="/" exact-active-class="header-active">ACCUEIL</nuxt-link></b-nav-item>
+            <b-nav-item class="pr-4" href="/files/LatelierdHelena_Noel_2021.pdf"><span class="text-success font-weight-bold">🎅 NOËL 2021 🎄</span></b-nav-item>
             <b-nav-item class="pr-4"><nuxt-link to="/incontournables" exact-active-class="header-active">LES INCONTOURNABLES</nuxt-link></b-nav-item>
             <b-nav-item class="pr-4"><nuxt-link to="/personnalisees" exact-active-class="header-active">LES PERSONNALISÉES</nuxt-link></b-nav-item>
             <!-- <b-nav-item class="pr-4"><nuxt-link to="/recettes" exact-active-class="header-active">RECETTES</nuxt-link></b-nav-item> -->
