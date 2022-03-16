@@ -9,11 +9,6 @@
             <h1>L'atelier d'Héléna - Pâtisseries fines et gourmandes</h1>
             <b-col><h2>Bienvenue à l'Atelier d'Héléna !</h2></b-col>
           </b-row>
-          <b-row class="pb-2">
-            <b-col>
-              <h3 class="text-center"><a href="/files/LatelierdHelena_Noel_2021.pdf">🎅 Découvrez vite les desserts de Noël ici ! 🎄</a></h3>
-            </b-col>
-          </b-row>
           <b-row>
             <b-col>
               <p class="text-justify">​Pour un anniversaire, un goûter,  un repas, un mariage, ou juste pour une petite envie de se faire plaisir, L'Atelier d’Héléna s'occupe de tout ! Commandez vos pâtisseries et passez les récupérer à <ripaillettefb/>, ou faites vous directement livrer à votre domicile ou sur votre lieu de travail par exemple.<br/>
